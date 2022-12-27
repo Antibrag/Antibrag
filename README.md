@@ -1,3 +1,4 @@
 Hello everyone! 
 
-I will post here some of my work.
+I like coding on C# and C++. 
+Currently, I learned a godot engine. But, sometimes I just write in the above languages
