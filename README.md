@@ -6,7 +6,7 @@ Learned in Russia/Moscow on a 9 class.
 
 I like coding on C# and C++. 
 Currently, I learned a Godot Game Engine. In future, I hope create AAA game with my team.
-But, for now, I just create games for me. We can see his on my pinned github repositories.
+But, for now, I just create games forself, which we can see on my pinned github repositories.
 
 ## My Games:
   - Save The Planets!
