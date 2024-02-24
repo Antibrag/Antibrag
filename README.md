@@ -13,5 +13,5 @@ But, for now, I just create games forself, which we can see on my pinned github 
 
   - Franklin Future FTP (postponed)
 
-  - Franklin Future (in working)
+  - Franklin Future (postponed)
 
